@@ -14,10 +14,9 @@
 <p align="left">
 🔹 App developer focused on clean architectures & intuitive UX<br>
 🔹 Software Engineering student passionate about problem-solving<br>
-🔹 Exploring cybersecurity, secure coding & ethical hacking<br>
+🔹 Exploring cybersecurity<br>
 🔹 Lover of pixel art, anime aesthetics & retro technology<br>
 🔹 Always learning — always building<br>
-🔹 Interested in open-source, cloud computing & cross-platform apps<br>
 </p>
 
 ---
