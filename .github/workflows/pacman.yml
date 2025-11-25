@@ -1,5 +1,8 @@
 name: Generate Pacman Contribution SVG
 
+permissions:
+  contents: write  # REQUIRED so the workflow can push to the repo
+
 on:
   schedule:
     - cron: "0 0 * * *"
@@ -8,8 +11,11 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
+
     steps:
-      - uses: actions/checkout@v3
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
 
       - name: Generate Pacman graph
         uses: Platane/snk@v3
