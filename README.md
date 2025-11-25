@@ -77,7 +77,7 @@
 
 ---
 
-<<img align="center"
+<img align="center"
      src="https://github-readme-stats.vercel.app/api?username=Syroko8&show_icons=true&theme=dracula" />
 
 <img align="center"
@@ -86,7 +86,7 @@
 
 ### Pac-Man Contribution Graph
 
-<<picture>
+<picture>
   <source media="(prefers-color-scheme: dark)"
           srcset="https://raw.githubusercontent.com/Syroko8/Syroko8/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)"
