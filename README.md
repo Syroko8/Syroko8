@@ -1,6 +1,6 @@
 <div align="center">
   <img 
-    src="https://ih1.redbubble.net/cover.2616889.2400x600.jpg" 
+    src="./assets/banner.jpg" 
     alt="Profile Banner"
     style="
       width: 100%;
