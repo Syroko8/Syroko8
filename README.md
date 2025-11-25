@@ -77,15 +77,20 @@
 
 ---
 
-<div align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=Syroko8&show_icons=true&include_all_commits=true&count_private=true&theme=dracula"/>
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs?username=Syroko8&layout=compact&langs_count=6&theme=dracula"/>
-</div>
+<<img align="center"
+     src="https://github-readme-stats.vercel.app/api?username=Syroko8&show_icons=true&theme=dracula" />
+
+<img align="center"
+     src="https://github-readme-stats.vercel.app/api/top-langs/?username=Syroko8&layout=compact&theme=dracula" />
+
 
 ### Pac-Man Contribution Graph
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Syroko8/Syroko8/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Syroko8/Syroko8/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Syroko8/Syroko8/output/pacman-contribution-graph.svg">
+<<picture>
+  <source media="(prefers-color-scheme: dark)"
+          srcset="https://raw.githubusercontent.com/Syroko8/Syroko8/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)"
+          srcset="https://raw.githubusercontent.com/Syroko8/Syroko8/output/pacman-contribution-graph.svg">
+  <img alt="pacman animation"
+       src="https://raw.githubusercontent.com/Syroko8/Syroko8/output/pacman-contribution-graph.svg">
 </picture>
