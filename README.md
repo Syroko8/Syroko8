@@ -1,10 +1,16 @@
-<div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&fontColor=FFFFFF&theme=cobalt"/>
+<div align="center">
+  <img 
+    src="https://ih1.redbubble.net/cover.2616889.2400x600.jpg" 
+    alt="Profile Banner"
+    style="
+      width: 100%;
+      object-fit: cover;
+      object-position: center 20%;
+      border-radius: 0;
+    "
+  />
 </div>
 
-<div align="center">
-  <img height="200" src="" alt="Banner picture" />
-</div>
 
 <h1 align="left">Hi 👋, I'm Nicolás Puebla</h1>
 
@@ -76,7 +82,7 @@
 </div>
 
 ---
-
+<!--
 <img align="center"
      src="https://github-readme-stats.vercel.app/api?username=Syroko8&show_icons=true&theme=dracula" />
 
@@ -94,3 +100,9 @@
   <img alt="pacman animation"
        src="https://raw.githubusercontent.com/Syroko8/Syroko8/output/pacman-contribution-graph.svg">
 </picture>
+
+Metrics:
+ -->
+<div align="left">
+  <img src="./metrics.svg" alt="GitHub Metrics" />
+</div>
